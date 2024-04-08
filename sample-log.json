@@ -1,0 +1,18 @@
+{
+  "channel": "ProgrammerZamanNow\\Belajar\\PHP\\MVC\\FormatterTest",
+  "context": {
+    "username": "khannedy"
+  },
+  "datetime": "2024-04-08T16:06:30.792965+02:00",
+  "extra": {
+    "hostname": "LAPTOP-KI1EOQTC",
+    "memory_usage": "4 MB",
+    "git": {
+      "branch": "master",
+      "commit": "4c419d52e3b12654d8ccc2a070e64fc58b514f8f"
+    }
+  },
+  "level": 200,
+  "level_name": "INFO",
+  "message": "Belajar PHP Logging"
+}
